@@ -1,0 +1,17 @@
+# Data files
+*.tbl
+data/
+real_data_test/
+tpch-dbgen/*.tbl
+data_sf1/
+tpch-dbgen/
+
+# Build artifacts
+build/
+*.o
+main
+tpch_query5
+
+# Editors
+.vscode/
+*.swp
